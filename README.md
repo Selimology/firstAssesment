@@ -7,3 +7,6 @@ This is due to the reading through the whole file and processing all of it at th
 ## The scriptv2 can handle upto millions of lines of data, but the search feature isn't implemented yet.
 
 This reads through the file in small batches so it can handle large file sizes
+
+
+No libraries or frameworks has been used.
